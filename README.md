@@ -1,4 +1,4 @@
-# TFG_Guillermo
+# Manual de funcionamiento del sistema.
 
 Este repositorio contiene los códigos de programación desarrollados y un vídeo demostrativo del sistema en funcionamiento correspondientes al Trabajo de Fin de Grado titulado "SENSORIZACIÓN, MONITORIZACIÓN Y CONTROL REMOTO DE UNA CINTA TRANSPORTADORA" realizado por Guillermo Uña Viñas en la Escuela Superior de Ingeniería (ESI) de la Universidad de Cádiz (UCA).
 
