@@ -1,6 +1,6 @@
 # Manual de funcionamiento del sistema.
 
-Este repositorio contiene los códigos de programación desarrollados y un vídeo demostrativo del sistema en funcionamiento correspondientes al Trabajo de Fin de Grado titulado "SENSORIZACIÓN, MONITORIZACIÓN Y CONTROL REMOTO DE UNA CINTA TRANSPORTADORA" realizado por Guillermo Uña Viñas en la Escuela Superior de Ingeniería (ESI) de la Universidad de Cádiz (UCA).
+Este repositorio contiene los códigos de programación desarrollados correspondientes al Trabajo de Fin de Grado titulado "SENSORIZACIÓN, MONITORIZACIÓN Y CONTROL REMOTO DE UNA CINTA TRANSPORTADORA" realizado por Guillermo Uña Viñas en la Escuela Superior de Ingeniería (ESI) de la Universidad de Cádiz (UCA).
 
 El proyecto integra:
 - Control local de una cinta transportadora a través de sensores y actuadores con Arduino.
