@@ -8,7 +8,7 @@ El proyecto integra:
 - Interfaz gráfica (dashboard) para monitorizar y controlar el sistema de forma remota, incluyendo la posibilidad de cambiar entre modo remoto y modo local.
 - Configuración de acceso remoto a la API a través de CloudFlare.
 
-Ejecución de la API:
+[b]Ejecución de la API[/b]:
 
   1. Cargar el código programado en Arduino en el microcontrolador, que deberá estar conectado al PC por USB.
   2. Abrir el editor de código, Visual Studio Code en este caso, y en el terminal a través de los siguientes comandos de PowerShell, lanzar la API:
