@@ -8,7 +8,7 @@ El proyecto integra:
 - Interfaz gráfica (dashboard) para monitorizar y controlar el sistema de forma remota, incluyendo la posibilidad de cambiar entre modo remoto y modo local.
 - Configuración de acceso remoto a la API a través de CloudFlare.
 
-[b]Ejecución de la API[/b]:
+**Ejecución de la API**:
 
   1. Cargar el código programado en Arduino en el microcontrolador, que deberá estar conectado al PC por USB.
   2. Abrir el editor de código, Visual Studio Code en este caso, y en el terminal a través de los siguientes comandos de PowerShell, lanzar la API:
@@ -24,13 +24,13 @@ El proyecto integra:
      * Running on http://192.168.1.182:5000
      Esto indicará que la API se ha ejecutado correctamente y está funcionando, para desconectarla bastará con presionar "Ctrl + C" en el terminal.
 
-Conexión en local con la interfaz gráfica:
+**Conexión en local con la interfaz gráfica**:
 
   Una vez la API este funcionando, para abrir la interfaz en local hay dos opciones:
   - Acceder directamente a la carpeta del ordenador donde está ubicado el archivo .HTML de la interfaz (en este caso, Dashboard_TFG.html) y abrirlo desde un     navegador.
   - O bien, mediante el siguiente comando ejecutado en el terminal antes de la ejecución de la API: python -m http.server 8000  y el terminal deberá devolver algo como: Serving HTTP on :: port 8000 (http://[::]:8000/) ... . Esto lo que hace es habilitar un servidor web local que accede directamente a la carpeta donde se encuentra ubicada la interfaz mediante una URL local, en este caso sería: http://localhost:8000/Dashboard_TFG.html. Ejecutando esto en el navegador, accederiamos a la interfaz gráfica.
 
-Conexión en remoto desde otro dispositivo con la interfaz gráfica:
+**Conexión en remoto desde otro dispositivo con la interfaz gráfica**:
 
   Para acceder en remoto se usará tanto el repositorio en GitHub como Cloudflare, mediante los siguientes pasos:
   1. Subir al repositorio de GitHub el archivo .html de la interfaz gráfica.
