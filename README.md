@@ -12,9 +12,12 @@ El proyecto integra:
 
   1. Cargar el código programado en Arduino en el microcontrolador, que deberá estar conectado al PC por USB.
   2. Abrir el editor de código, Visual Studio Code en este caso, y en el terminal a través de los siguientes comandos de PowerShell, lanzar la API:
+     
       $env:ARDUINO_PORT="COM10" (Establece el puerto serie que está usando Arduino. El monitor serie de Arduino deberá estar cerrado para evitar conflictos.)
       python .\API_TFG.py (ejecuta la API)
+    
   3. Comprobar que en el terminal aparece lo siguiente:
+     
      API conectada a COM10 @ 9600 baudios
      * Serving Flask app 'API_TFG'
      * Debug mode: off
