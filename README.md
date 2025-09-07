@@ -1,6 +1,6 @@
 # TFG_Guillermo
 
-Este repositorio contiene el código y los recursos desarrollados para el Trabajo de Fin de Grado "SENSORIZACIÓN, MONITORIZACIÓN Y CONTROL REMOTO DE UNA CINTA TRANSPORTADORA" realizado por Guillermo Uña Viñas en la Escuela Superior de Ingeniería (UCA) de Puerto Real, Cádiz.
+Este repositorio contiene los códigos de programación desarrollados y un vídeo demostrativo del sistema en funcionamiento correspondientes al Trabajo de Fin de Grado titulado "SENSORIZACIÓN, MONITORIZACIÓN Y CONTROL REMOTO DE UNA CINTA TRANSPORTADORA" realizado por Guillermo Uña Viñas en la Escuela Superior de Ingeniería (ESI) de la Universidad de Cádiz (UCA).
 
 El proyecto integra:
 - Control local de una cinta transportadora a través de sensores y actuadores con Arduino.
