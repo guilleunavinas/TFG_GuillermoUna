@@ -26,6 +26,7 @@ El proyecto integra:
      * Running on all addresses (0.0.0.0)
      * Running on http://127.0.0.1:5000
      * Running on http://192.168.1.182:5000
+     * 
      Esto indicará que la API se ha ejecutado correctamente y está funcionando, para desconectarla bastará con presionar "Ctrl + C" en el terminal.
 
 **Conexión en local con la interfaz gráfica**:
